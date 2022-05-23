@@ -1,9 +1,8 @@
-
-public class Objeto {
+public class Password {
 
 private static String caracteres;
 	
-	public Objeto(String caracteres) {
+	public Password(String caracteres) {
 		super();
 		this.caracteres = caracteres;
 	}
